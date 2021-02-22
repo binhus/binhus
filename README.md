@@ -12,7 +12,8 @@
   <tbody>
     <tr>
       <td align="center" width="20%">
-        <span><b><center>ReactJS</center></b></span> 
+        <span><b>ReactJS</b></span>
+        <br>
         <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
       </td>
       <td align="center" width="20%">
@@ -21,36 +22,43 @@
         <img height=65px src="https://img.icons8.com/color/50/000000/redux.png">
       </td>
       <td align="center" width="20%">
-        <span><b><center>NodeJS</center></b></span> 
+        <span><b>NodeJS</b></span> 
+        <br>
         <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
       </td>
     </tr>
     <tr>
       <td align="center" width="20%">
-        <span><b><center>CSS3</center></b></span> 
+        <span><b>CSS3</b></span>
+        <br>
         <img height=65px src="https://img.icons8.com/color/48/000000/css3.png"> 
       </td>
       <td align="center" width="20%">
-        <span><b><center>HTML</center></b></span> 
+        <span><b>HTML</b></span>
+        <br>
         <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
       </td>
       </td>
         <td align="center" width="20%">
-          <span><b><center>JavaScript</center></b></span> 
+          <span><b>JavaScript</b></span>
+          <br>
           <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
       </td>
     </tr>
     <tr>
       <td align="center" width="20%">
-        <span><b><center>Git</center></b></span> 
+        <span><b>Git</b></span>
+        <br>
         <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
       </td>
       <td align="center" width="20%">
-        <span><b><center>MySQL</center></b></span> 
+        <span><b>MySQL</b></span>
+        <br>
         <img height=65px src="https://img.icons8.com/ios/50/000000/mysql-logo.png"> 
       </td>
       <td align="center" width="20%">
-        <span><b><center>MongoDB</center></b></span> 
+        <span><b>MongoDB</b></span>
+        <br>
         <img height=65px src="https://img.icons8.com/color/48/00      0000/mongodb.png">
       </td>
     </tr>
