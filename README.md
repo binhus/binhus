@@ -11,52 +11,52 @@
 <table align="center" width="90%">
   <tbody>
     <tr>
-      <td align="center" width="20%">
+      <td align="center">
         <span><b>ReactJS</b></span>
         <br>
         <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
       </td>
-      <td align="center" width="20%">
+      <td align="center">
         <span><b>Redux</b></span>
         <br>
         <img height=65px src="https://img.icons8.com/color/50/000000/redux.png">
       </td>
-      <td align="center" width="20%">
+      <td align="center">
         <span><b>NodeJS</b></span> 
         <br>
         <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
       </td>
     </tr>
     <tr>
-      <td align="center" width="20%">
+      <td align="center">
         <span><b>CSS3</b></span>
         <br>
         <img height=65px src="https://img.icons8.com/color/48/000000/css3.png"> 
       </td>
-      <td align="center" width="20%">
+      <td align="center">
         <span><b>HTML</b></span>
         <br>
         <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
       </td>
       </td>
-        <td align="center" width="20%">
+        <td align="center">
           <span><b>JavaScript</b></span>
           <br>
           <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
       </td>
     </tr>
     <tr>
-      <td align="center" width="20%">
+      <td align="center">
         <span><b>Git</b></span>
         <br>
         <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
       </td>
-      <td align="center" width="20%">
+      <td align="center">
         <span><b>MySQL</b></span>
         <br>
         <img height=65px src="https://img.icons8.com/ios/50/000000/mysql-logo.png"> 
       </td>
-      <td align="center" width="20%">
+      <td align="center">
         <span><b>MongoDB</b></span>
         <br>
         <img height=65px src="https://img.icons8.com/color/48/00      0000/mongodb.png">
