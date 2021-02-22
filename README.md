@@ -9,7 +9,7 @@
 
 <br>
 <table align="center" width="90%">
-  <tbody>
+  <tbody width="90%">
     <tr>
       <td align="center">
         <span><b>ReactJS</b></span>
