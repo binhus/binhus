@@ -16,7 +16,8 @@
         <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
       </td>
       <td align="center" width="20%">
-        <span><b>Redux</b></span> 
+        <span><b>Redux</b></span>
+        <br>
         <img height=65px src="https://img.icons8.com/color/50/000000/redux.png">
       </td>
       <td align="center" width="20%">
