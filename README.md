@@ -11,12 +11,12 @@
 <table align="center" width="90%">
   <tbody>
     <tr>
-      <td align="center" flex-direction="column" width="20%">
+      <td align="center" width="20%">
         <span><b><center>ReactJS</center></b></span> 
         <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
       </td>
       <td align="center" width="20%">
-        <span><b><center>Redux</center></b></span> 
+        <span align="center"><b>Redux</b></span> 
         <img height=65px src="https://img.icons8.com/color/50/000000/redux.png">
       </td>
       <td align="center" width="20%">
