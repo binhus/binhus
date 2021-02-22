@@ -8,7 +8,7 @@
 <h2 align="center">Tech Stacks:</h2>
 
 <br>
-<table align="center" width="90%">
+<table align="center" width="500">
   <tbody width="90%">
     <tr>
       <td align="center">
