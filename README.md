@@ -5,13 +5,13 @@
 <p align="center"> <samp>My name is Robson Willi and I am a Full stack Web Developer student. I once was a Mechanical Engineer but now I'm starting my carrer to become a software engineer. If you want a super hard worker and hard learner in your team, please give-me the job!
 
 <br>
-<h2><center>Tech Stacks:</center></h2>
+<h2 align="center">Tech Stacks:</h2>
 
 <br>
 <table align="center" width="90%">
   <tbody>
     <tr>
-      <td align="center" width="20%">
+      <td align="center" flex-direction="column" width="20%">
         <span><b><center>ReactJS</center></b></span> 
         <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
       </td>
@@ -46,7 +46,7 @@
       </td>
       <td align="center" width="20%">
         <span><b><center>MySQL</center></b></span> 
-        <img height=65px src="https://img.icons8.com/ios-filled/50/000000/mysql.png"> 
+        <img height=65px src="https://img.icons8.com/ios/50/000000/mysql-logo.png"> 
       </td>
       <td align="center" width="20%">
         <span><b><center>MongoDB</center></b></span> 
