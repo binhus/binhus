@@ -8,8 +8,8 @@
 <h2 align="center">Tech Stacks:</h2>
 
 <br>
-<table align="center" width="500px">
-  <tbody width="90%">
+<table align="center">
+  <tbody width="500px">
     <tr>
       <td align="center">
         <span><b>ReactJS</b></span>
